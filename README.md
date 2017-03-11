@@ -7,9 +7,7 @@ MyFavoriteMovies :whale:
 
 각 장르별로 제 최최애영화들에는 더 자세한 정보를 확인하실 수 있도록 링크를 걸어두었습니다.
 
-
-
-
+<br /><br /><br />
 
 **1. 멜로 / 로맨스**
 
@@ -45,7 +43,7 @@ MyFavoriteMovies :whale:
 
 - 러브 액츄얼리 (Love Actually, 2003)
 
-
+<br /><br />
 
 **2. 공포**
 
@@ -55,13 +53,13 @@ MyFavoriteMovies :whale:
 
 - 라이트 아웃 (Lights Out, 2016)
 
-  
+<br /><br />
 
 **3. 액션**
 
 - 미션 임파서블 3 (Mission Impossible 3, 2006) 
 
-  
+<br /><br />  
 
 **4. 범죄 / 스릴러**
 
@@ -83,7 +81,7 @@ MyFavoriteMovies :whale:
 
 - [신세계 (New World, 2012)]
 
-  
+<br /><br /> 
 
 **5. 드라마**
 
@@ -107,7 +105,7 @@ MyFavoriteMovies :whale:
 
 - 그랜드 부다페스트 호텔 (The Grand Budapest Hotel, 2014)
 
-  
+<br /><br />  
 
 **6. SF**
 
@@ -115,7 +113,7 @@ MyFavoriteMovies :whale:
 
 - [인셉션 (Inception, 2010)]
 
-
+<br /><br />
 
 **7. 음악**
 
@@ -127,7 +125,7 @@ MyFavoriteMovies :whale:
 
 - 원스 (Once, 2006)
 
-  
+<br /><br />  
 
 **8. 애니메이션**
 
