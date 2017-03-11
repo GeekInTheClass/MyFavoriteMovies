@@ -11,7 +11,7 @@ MyFavoriteMovies :whale:
 
 **1. 멜로 / 로맨스**
 
-- [내 머리 속의 지우개 (A Moment To Remember, 2004)]
+- [내 머리 속의 지우개 (A Moment To Remember, 2004)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/AMomentToRemember.md)
 
 - 이터널 선샤인 (Eternal Sunshine Of The Spotless Mind, 2004 )
 
@@ -47,7 +47,7 @@ MyFavoriteMovies :whale:
 
 **2. 공포**
 
-- [23 아이덴티티 (Split, 2016)]
+- [23 아이덴티티 (Split, 2016)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/Split.md)
 
 - 맨 인더 다크 (Don't Breathe, 2016)
 
@@ -79,13 +79,13 @@ MyFavoriteMovies :whale:
 
 - 타짜 (The War Of Flower, 2006)
 
-- [신세계 (New World, 2012)]
+- [신세계 (New World, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/NewWorld.md)
 
 <br />
 
 **5. 드라마**
 
-- [히든 피겨스 (Hidden Figures, 2016)]
+- [히든 피겨스 (Hidden Figures, 2016)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/HiddenFigures.md)
 
 - 헬프 (The Help, 2011)
 
@@ -95,13 +95,13 @@ MyFavoriteMovies :whale:
 
 - 라라랜드 (La La Land, 2016)
 
-- [라이프 오브 파이 (Life of Pi, 2012)]
+- [라이프 오브 파이 (Life of Pi, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/LifeOfpi.md)
 
 - 보이후드 (Boyhood, 2014)
 
 - 굿 윌 헌팅 (Good Will Hunting, 1997)
 
-- [그녀 (Her, 2013)]
+- [그녀 (Her, 2013)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/Her.md)
 
 - 그랜드 부다페스트 호텔 (The Grand Budapest Hotel, 2014)
 
@@ -111,13 +111,13 @@ MyFavoriteMovies :whale:
 
 - 인터스텔라 (Interstellar, 2014)
 
-- [인셉션 (Inception, 2010)]
+- [인셉션 (Inception, 2010)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/Inception.md)
 
 <br />
 
 **7. 음악**
 
-- [비긴 어게인 (Begin Again, 2013)]
+- [비긴 어게인 (Begin Again, 2013)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/BeginAgain.md)
 
 - 싱 스트리트 (Sing Street, 2016)
 
@@ -129,7 +129,7 @@ MyFavoriteMovies :whale:
 
 **8. 애니메이션**
 
-- [센과 치히로의 행방불명 (The Spiriting Away Of Sen And Chihiro, 2001)]
+- [센과 치히로의 행방불명 (The Spiriting Away Of Sen And Chihiro, 2001)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/TheSpiritingAwayOfSenAndChihiro.md)
 
 - 너의 이름은.  (your name., 2016)
 
