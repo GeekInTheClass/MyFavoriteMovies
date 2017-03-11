@@ -1,5 +1,6 @@
 
-vies :whale:
+
+MyFavoriteMovies :whale:
 
 장르에 따른 저의 최애영화들을 소개합니다.
 
@@ -7,7 +8,7 @@ vies :whale:
 
 
 
-1. 멜로 / 로맨스
+**1. 멜로 / 로맨스**
 
 - [내 머리 속의 지우개 (A Moment To Remember, 2004)]
 - 이터널 선샤인 (Eternal Sunshine Of The Spotless Mind, 2004 )
@@ -28,19 +29,19 @@ vies :whale:
 
 
 
-2. 공포
+**2. 공포**
 
 - [23 아이덴티티 (Split, 2016)]
 - 맨 인더 다크 (Don't Breathe, 2016)
 - 라이트 아웃 (Lights Out, 2016)
   
 
-3. 액션
+**3. 액션**
 
 - 미션 임파서블 3 (Mission Impossible 3, 2006) 
   
 
-4. 범죄 / 스릴러
+**4. 범죄 / 스릴러**
 
 - 추격자 (The Chaser, 2008)
 - 나를 찾아줘 (Gone Girl, 2014)
@@ -53,7 +54,7 @@ vies :whale:
 - [신세계 (New World, 2012)]
   
 
-5. 드라마
+**5. 드라마**
 
 - [히든 피겨스 (Hidden Figures, 2016)]
 - 헬프 (The Help, 2011)
@@ -67,14 +68,14 @@ vies :whale:
 - 그랜드 부다페스트 호텔 (The Grand Budapest Hotel, 2014)
   
 
-6. SF
+**6. SF**
 
 - 인터스텔라 (Interstellar, 2014)
 - [인셉션 (Inception, 2010)]
 
 
 
-7. 음악
+**7. 음악**
 
 - [비긴 어게인 (Begin Again, 2013)]
 - 싱 스트리트 (Sing Street, 2016)
@@ -82,7 +83,7 @@ vies :whale:
 - 원스 (Once, 2006)
   
 
-8. 애니메이션
+**8. 애니메이션**
 
 - [센과 치히로의 행방불명 (The Spiriting Away Of Sen And Chihiro, 2001)]
 - 너의 이름은.  (your name., 2016)
