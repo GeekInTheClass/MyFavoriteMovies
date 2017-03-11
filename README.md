@@ -1,6 +1,6 @@
 
-MyFavoriteMovies
-================
+MyFavoriteMovies :whale:
+==================
 
 장르에 따른 저의 최애영화들을 소개합니다.
 
