@@ -9,6 +9,8 @@ MyFavoriteMovies :whale:
 
 
 
+
+
 **1. 멜로 / 로맨스**
 
 - [내 머리 속의 지우개 (A Moment To Remember, 2004)]
@@ -53,13 +55,13 @@ MyFavoriteMovies :whale:
 
 - 라이트 아웃 (Lights Out, 2016)
 
-  ​
+  
 
 **3. 액션**
 
 - 미션 임파서블 3 (Mission Impossible 3, 2006) 
 
-  ​
+  
 
 **4. 범죄 / 스릴러**
 
@@ -81,7 +83,7 @@ MyFavoriteMovies :whale:
 
 - [신세계 (New World, 2012)]
 
-  ​
+  
 
 **5. 드라마**
 
@@ -105,7 +107,7 @@ MyFavoriteMovies :whale:
 
 - 그랜드 부다페스트 호텔 (The Grand Budapest Hotel, 2014)
 
-  ​
+  
 
 **6. SF**
 
@@ -125,7 +127,7 @@ MyFavoriteMovies :whale:
 
 - 원스 (Once, 2006)
 
-  ​
+  
 
 **8. 애니메이션**
 
