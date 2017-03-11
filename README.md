@@ -95,7 +95,7 @@ MyFavoriteMovies :whale:
 
 - 라라랜드 (La La Land, 2016)
 
-- [라이프 오브 파이 (Life of Pi, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/LifeOfpi.md)
+- [라이프 오브 파이 (Life of Pi, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/LifeOfPi.md)
 
 - 보이후드 (Boyhood, 2014)
 
