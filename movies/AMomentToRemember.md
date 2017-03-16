@@ -1,6 +1,6 @@
 # 내 머리 속의 지우개 
 
-![alt text](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/AMomentToRemember.jpg)
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/AMomentToRemember.jpg" style="width: 200px;"/>
 
 #### 줄거리
 
