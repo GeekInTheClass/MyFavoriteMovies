@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 내 머리 속의 지우개 
 
 #### 줄거리
@@ -15,3 +16,16 @@
 #### 음악
 
 [김태원](https://www.google.co.kr/search?espv=2&biw=1280&bih=703&q=%EA%B9%80%ED%83%9C%EC%9B%90&stick=H4sIAAAAAAAAAOPgE-LUz9U3MMvJLjJS4gIxk4tSUrIqtISzk6300zJzcsGEVW5pcWYyAOn0gu0uAAAA&sa=X&ved=0ahUKEwjf89HN_9nSAhXIVLwKHbhYBzYQmxMIkAEoATAW), [박경진](https://www.google.co.kr/search?espv=2&biw=1280&bih=703&q=%EB%B0%95%EA%B2%BD%EC%A7%84&stick=H4sIAAAAAAAAAOPgE-LUz9U3MMvJLjJS4gIxy6vMspONtYSzk6300zJzcsGEVW5pcWYyADOJaMYuAAAA&sa=X&ved=0ahUKEwjf89HN_9nSAhXIVLwKHbhYBzYQmxMIkQEoAjAW), [달파란](https://www.google.co.kr/search?espv=2&biw=1280&bih=703&q=%EB%8B%AC%ED%8C%8C%EB%9E%80&stick=H4sIAAAAAAAAAOPgE-LUz9U3MMvJLjJS4gIxLVPKjcoytISzk6300zJzcsGEVW5pcWYyADX6U7cuAAAA&sa=X&ved=0ahUKEwjf89HN_9nSAhXIVLwKHbhYBzYQmxMIkgEoAzAW)
+=======
+ 내 머리 속의 지우개
+
+![alt text] (http://image.cine21.com/IMGDB/poster/2004/0819/large/151417_erase.jpg)
+
+#### 줄거리
+
+@
+@                                                                                                        @                                                                                                        @                                                                                                        @
+@                                                                                                        @                                                                                                        @                                                                                                        @
+@
+@
+>>>>>>> c538c8481f3ee76e18baf986ced7383783dab590

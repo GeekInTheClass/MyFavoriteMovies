@@ -1,5 +1,3 @@
-
-
 MyFavoriteMovies :whale:
 ==================
 
@@ -95,7 +93,7 @@ MyFavoriteMovies :whale:
 
 - 라라랜드 (La La Land, 2016)
 
-- [라이프 오브 파이 (Life of Pi, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/LifeOfpi.md)
+- [라이프 오브 파이 (Life of Pi, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/LifeOfPi.md)
 
 - 보이후드 (Boyhood, 2014)
 
@@ -133,3 +131,4 @@ MyFavoriteMovies :whale:
 
 - 너의 이름은.  (your name., 2016)
 
+>>>>>>> 7ee60a251448cb69014fb9f3b26af8e297790d58
