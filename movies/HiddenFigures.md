@@ -1,4 +1,6 @@
-# 그녀
+# 히든 피겨스
+
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/HiddenFigures.jpg" width="400px"/>
 
 #### 줄거리
 
