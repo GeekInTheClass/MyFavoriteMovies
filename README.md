@@ -77,7 +77,7 @@ MyFavoriteMovies :whale:
 
 - 타짜 (The War Of Flower, 2006)
 
-- [신세계 (New World, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/moviesNewWorld.md)
+- [신세계 (New World, 2012)](https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/movies/NewWorld.md)
 
 <br />
 
