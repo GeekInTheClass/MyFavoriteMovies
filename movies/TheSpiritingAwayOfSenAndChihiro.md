@@ -1,6 +1,6 @@
 # 센과 치히로의 행방불명
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/TheSpiritingAwayOfSenAndChihiro.jpeg" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/TheSpiritingAwayOfSenAndChihiro.jpg" width="400px"/></p>
 
 #### 줄거리
 

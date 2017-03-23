@@ -1,6 +1,6 @@
 # 23 아이덴티티
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/Split.gif" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/Split.gif" width="400px"/></p>
 
 #### 줄거리
 

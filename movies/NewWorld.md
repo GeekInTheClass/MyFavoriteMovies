@@ -1,6 +1,6 @@
 # 신세계
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/NewWorld.jpg" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/NewWorld.jpg" width="400px"/></p>
 
 #### 줄거리
 

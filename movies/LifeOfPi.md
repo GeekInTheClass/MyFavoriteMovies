@@ -1,6 +1,6 @@
 # 라이프 오브 파이
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/LifeOfPi.jpeg" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/LifeOfPi.jpg" width="400px"/></p>
 
 #### 줄거리
 
