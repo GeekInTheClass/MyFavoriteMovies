@@ -1,6 +1,6 @@
 # 비긴 어게인
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/BeginAgain.gif" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/BeginAgain.gif" width="400px"/></p>
 
 #### 줄거리
 
