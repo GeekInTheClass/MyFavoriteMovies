@@ -1,6 +1,6 @@
 # 히든 피겨스
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/HiddenFigures.jpg" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/HiddenFigures.jpg" width="400px"/></p>
 
 #### 줄거리
 
