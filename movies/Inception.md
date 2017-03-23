@@ -1,6 +1,6 @@
 # 인셉션
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/Inception.jpeg" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/Inception.jpeg" width="400px"/></p>
 
 #### 줄거리
 
