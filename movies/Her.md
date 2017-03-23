@@ -1,6 +1,6 @@
 # 그녀
-
-<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/her.gif" width="400px"/>
+<p align="center">
+<img src="https://github.com/GeekInTheClass/MyFavoriteMovies/blob/master/img/her.gif" width="400px"/></p>
 
 #### 줄거리
 
